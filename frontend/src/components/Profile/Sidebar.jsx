@@ -15,7 +15,7 @@ const Sidebar = ({ data }) => {
   return (
     <>
       { <Loader /> && (
-        <div class="p-3 bg-body-tertiary border shadow">
+        <div class="p-3 bg-body-tertiary border shadow" style={{minHeight: "50vh"}}>
         <div className="text-center w-100">
           <img
             src={data.avatar}
