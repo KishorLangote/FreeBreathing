@@ -40,7 +40,7 @@ const AllBooks = () => {
     )
       setPage(selectedPage);
 
-      //  scroll to the top of the page when chnaging pages using pagination
+      //  scroll to the top of the page when chnaging pages using paginatio
       window.scrollTo({
         top: 0,
         behavior: "smooth"
