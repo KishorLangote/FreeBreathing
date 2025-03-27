@@ -7,5 +7,5 @@
                     request books, add/remove books from favorites and carts,
                     and place book orders at zero cost.</p>
                     <div>
-                      <img src="https://res.cloudinary.com/dzuydzr7l/image/upload/v1742837113/FREE_BREATHING_FRONT_IMAGE_zdqcrb.png" />
+                      <img src="https://res.cloudinary.com/dzuydzr7l/image/upload/v1743057430/FBL_IMAGE_vqjhph.png" />
                     </div>
