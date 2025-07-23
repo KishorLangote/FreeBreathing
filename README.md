@@ -39,7 +39,7 @@ npm run dev
 ---
 
 ## Demo Video
-[Loom Video]()
+[Loom Video](https://www.loom.com/share/7cc74de233d445b1b2cfcfdff39f5feb?sid=4add2115-408b-46d6-aeb6-27e9396f3bc8)
 
 ---
 
