@@ -1,6 +1,6 @@
 # FreeBreathing
 
-A full-stack Books E-commerce App where you can view all books. Users can explore a wide range of topics, request books, add or remove them from favorites and carts, and place orders at zero cost.
+A full-stack Books E-commerce App where you can view all books. Users can request books, add or remove them from favorites and carts, and place orders at zero cost.
 Built with React frontend, Express/Node, MongoDB database and JWT-based authentication.
 
 ---
@@ -65,7 +65,7 @@ npm run dev
 
 **Profile Page**
 - Showcases the user’s favorite books with the ability to remove books from favorites.
-- Displays the user’s complete order history.y.
+- Displays the user’s complete order history.
 - Allows users to request new books not currently available.
 - Provides an option to update delivery address.
 
